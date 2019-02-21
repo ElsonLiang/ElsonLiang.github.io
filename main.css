@@ -1,16 +1,15 @@
 h1 {
-    color: darkblue
-}
-h1 {font-family: cursive
-}
-h1{ font-size: xx-large
+    color: darkblue;
+    font-family: cursive;
+    font-size: xx-large
 }
 h2 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
-h2{ font-size: x-large
+h2{ font-size: x-large;
+    color: royalblue
 }
-h2{ color: royalblue}
-body{ background-color: rgb(78, 78, 78)}
+body{ background-color: rgb(78, 78, 78)
+}
 
 .full-grid{ 
     width: 300px;
@@ -35,7 +34,7 @@ body{ background-color: rgb(78, 78, 78)}
     float: left
 }
 .square-4{
-    background-color: beige;
+    background-color: greenyellow;
     width: 100px;
     height: 100px;
     float: left
