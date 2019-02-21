@@ -10,61 +10,44 @@ h2{ font-size: x-large;
 }
 body{ background-color: rgb(78, 78, 78)
 }
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: deepskyblue;
+    font-size: x-large
+}
 
 .full-grid{ 
     width: 300px;
     height: 300px
 }
 .square-1{
-    background-color: crimson;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: crimson
 }
 .square-2{
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: blue
 }
 .square-3{
-    background-color: green;
-    width: 100px;
-    height:100px;
-    float: left
+    background-color: green
 }
 .square-4{
-    background-color: greenyellow;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: greenyellow
 }
 .square-5{
-    background-color: orange;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: orange
 }
 .square-6{
-    background-color: gold;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: gold
 }
 .square-7{
-    background-color: deeppink;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: deeppink
 }
 .square-8{
-    background-color: white;
-    width: 100px;
-    height: 100px;
-    float: left
+    background-color: white
 }
 .square-9{
-    background-color: indigo;
+    background-color: indigo
+}
+.cube{
     width: 100px;
     height: 100px;
     float: left
