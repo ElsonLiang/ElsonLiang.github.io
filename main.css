@@ -3,16 +3,16 @@ h1 {
     font-family: cursive;
     font-size: xx-large
 }
-h2 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
-h2{ font-size: x-large;
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
     color: royalblue
 }
 body{ background-color: rgb(78, 78, 78)
 }
 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: deepskyblue;
+    color: dodgerblue;
     font-size: x-large
 }
 
@@ -56,4 +56,10 @@ h3{
 }
 .row{
     display: flex;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:green;
+    font-size: large
 }
