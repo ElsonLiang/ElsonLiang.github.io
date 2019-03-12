@@ -1,19 +1,19 @@
 h1 {
-    color: darkblue;
+    color: darkred;
     font-family: cursive;
-    font-size: xx-large
+    font-size: xx-large;
 }
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
-    color: royalblue
+    color: white;
 }
 body{ background-color: rgb(78, 78, 78)
 }
 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: dodgerblue;
-    font-size: x-large
+    font-size: x-large;
 }
 
 .full-grid{ 
@@ -21,38 +21,38 @@ h3{
     height: 300px
 }
 .square-1{
-    background-color: crimson
+    background-color: crimson;
 }
 .square-2{
-    background-color: blue
+    background-color: blue;
 }
 .square-3{
-    background-color: green
+    background-color: green;
 }
 .square-4{
-    background-color: greenyellow
+    background-color: greenyellow;
 }
 .square-5{
-    background-color: orange
+    background-color: orange;
 }
 .square-6{
-    background-color: gold
+    background-color: gold;
 }
 .square-7{
-    background-color: deeppink
+    background-color: deeppink;
 }
 .square-8{
-    background-color: white
+    background-color: white;
 }
 .square-9{
-    background-color: indigo
+    background-color: indigo;
 }
 .cube{
     width: 100px;
     height: 100px;
     font-size: x-large;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: gray
+    color: gray;
 }
 .row{
     display: flex;
@@ -61,5 +61,5 @@ h3{
 a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:green;
-    font-size: large
+    font-size: large;
 }
