@@ -28,11 +28,13 @@ let value=0;
 
 function subtract(){
     value=value-1;
+    document.getElementById('value').innerText = value;
 }
 document.getElementById('subtract').onclick = subtract;
 
 function add(){
     value=value+1;
     console.log(value);
+    document.getElementById('value').innerText = value;
 }
 document.getElementById('add').onclick = add;
