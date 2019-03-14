@@ -1,5 +1,3 @@
-console.log(food)
-
 function ChangeFood(){
     let food = window.prompt('give me a food name(plural)');
     document.getElementById('food').innerText = food;
@@ -29,6 +27,7 @@ let value=0;
 function subtract(){
     value=value-1;
     document.getElementById('value').innerText = value;
+    console.log(value);
 }
 document.getElementById('subtract').onclick = subtract;
 
