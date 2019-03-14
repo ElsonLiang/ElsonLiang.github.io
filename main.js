@@ -26,6 +26,7 @@ let value=0;
 
 function subtract(){
     value=value-1;
+    console.log(value);
     document.getElementById('value').innerText = value;
     console.log(value);
 }
